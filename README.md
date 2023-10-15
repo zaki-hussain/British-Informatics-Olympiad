@@ -1,0 +1,1 @@
+Practice questions from British Informatics Olympiad past papers.
